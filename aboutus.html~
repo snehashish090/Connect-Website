@@ -107,7 +107,7 @@
                 <img src="img/raj-kumar-removebg-preview.png" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h3 class="card-title">Mr. Raj Kumar</h3>
-                  <p class="card-text">Senior Advisor</p>
+                  <p class="card-text">Co-founder</p>
                   <a href="#" class="btn btn-primary"  data-toggle="modal" data-target="#exampleModalCenter3">Read more about him</a>
                 </div>
               </div>
