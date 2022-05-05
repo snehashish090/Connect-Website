@@ -1,4 +1,4 @@
-/* .nav-link {
+.nav-link {
     color: #43464B;
     font-size: 25px;
     margin-right: 3rem ;
@@ -58,6 +58,7 @@
     text-align: center;
     border-radius: 20px;
 }
+
 .card a{
     width: 90%;
     height: 3rem;
@@ -152,4 +153,4 @@ transition: transform 0.25s ease-out;
   .navlink:hover:after {
     transform: scaleX(1);
   transform-origin: bottom left;
-  } */
+  }

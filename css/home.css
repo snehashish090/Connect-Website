@@ -86,7 +86,7 @@
         /* background-color: rgba(255,255,255,0.4); */
        background: rgba(255, 225, 225, .2);
        border: 1px solid #fff;
-       backdrop-filter: blur(5px);
+       backdrop-filter: blur(10px);
        color: rgba(255,255,255,0.8);
        margin: 1cm;
        width: 400px;
@@ -98,7 +98,6 @@
 }
 .container p {
     font-size: 30px;
-
 }
 
 
