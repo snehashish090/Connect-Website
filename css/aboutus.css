@@ -6,6 +6,9 @@
     display: inline-block;
     position: relative;
 }
+.nav-link :hover {
+  color: #EC5800;
+}
 
 
 #jumbo {
@@ -102,12 +105,14 @@
 
 .teamh1 {
     font-size: 5rem;
+    font-weight: 100;
 }
 
 
 .modal-body img{
     display: inline-block;
     margin-left:15%
+
 
 }
 
@@ -117,10 +122,11 @@
 
 .modal-body {
 
-    padding:30px;
+    padding:15px;
     font-size:15px;
     background-color: aliceblue;
     font-family: Helvetica, arial, sans-serif;
+    width: 1ref;
 }
 
 #exampleModalCenter {
@@ -214,3 +220,4 @@ transition: transform 0.25s ease-out;
     color:#aaa;
     margin-bottom:0;
   }
+
