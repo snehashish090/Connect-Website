@@ -1,5 +1,5 @@
 .nav-link {
-    color: #43464B;
+    color: blue;
     font-size: 25px;
     margin-right: 3rem ;
     font-weight: 100;
@@ -9,7 +9,6 @@
 .nav-link :hover {
   color: #EC5800;
 }
-
 
 #jumbo {
     background: url('../img/imageedit_1_6366457246.png');
@@ -53,7 +52,9 @@
     font-size: 100px;
 
 }
-
+.card-body h3{
+  font-weight: 100;
+}
 .card {
     width :23rem;
     margin: 25px;
@@ -145,20 +146,20 @@
 
   .nav-link:after{
     content: '';
-position: absolute;
-width: 100%;
-transform: scaleX(0);
-height: 2px;
-bottom: 0;
-left: 0;
-background-color: #0087ca;
-transform-origin: bottom right;
-transition: transform 0.25s ease-out;
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #0087ca;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
   }
 
   .navlink:hover:after {
     transform: scaleX(1);
-  transform-origin: bottom left;
+    transform-origin: bottom left;
   }
   .footer-basic {
     padding:40px 0;
